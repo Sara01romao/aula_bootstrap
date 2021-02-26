@@ -4,16 +4,24 @@ body{
 }
 
 .navbar{
-  background-color:#222831;
+  background-color:#b4c7e4;
   
 }
 
+
+
+.logos img{
+  margin-bottom: 50px;
+}
 
 .quem-somos{
   background-color: rgba(109, 122, 107, 0.486);
 
 }
 
+.servicos{
+  background: rgba(233, 233, 233, 0.76);
+}
 
 .margin{
   
